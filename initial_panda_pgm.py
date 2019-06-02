@@ -11,3 +11,4 @@ print((df["value"]).max())  # to print the max value
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 print(df["industry"][df["level"] == 2])
+print(df.head())
