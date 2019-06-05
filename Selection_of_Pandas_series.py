@@ -7,7 +7,7 @@ EMPLOYEES = {"NAME": ['ANCHAL', 'SHIVAM', 'ABHISHEK', 'SHASHANK', 'YASHI', 'SUMI
              "SALARY": ['100000000', '500000', '1000000', '6132334', '901813', '200000']}
 df = pd.DataFrame(EMPLOYEES)
 # print(df)  # prints the value of the dataframe object
-print(df.columns)
+# print(df.columns)
 # print(df.index)
 # print(df.values)
 # print(df.columns.values)
@@ -15,4 +15,4 @@ print(df.columns)
 # print(type(df.columns.values))
 # print(df.dtypes)
 print(df.SALARY.to_frame())
-print(df.SALARY)
+# print(df.SALARY)
