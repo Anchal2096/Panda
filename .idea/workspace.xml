@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c453218c-b61f-447a-bce7-97dad5713cbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/initial_panda_pgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/initial_panda_pgm.py" afterDir="false" />
     </list>
@@ -44,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Making_index_meaningful.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -71,12 +81,12 @@
       <list>
         <option value="$PROJECT_DIR$/Data_Frame_With_OperaTIONS.py" />
         <option value="$PROJECT_DIR$/Selection_of_Pandas_series.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/PCA.py" />
         <option value="$PROJECT_DIR$/Functions.py" />
         <option value="$PROJECT_DIR$/initial_panda_pgm.py" />
         <option value="$PROJECT_DIR$/Extracting_a_row_in.py" />
         <option value="$PROJECT_DIR$/Making_index_meaningful.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
@@ -95,6 +105,10 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Pandas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Pandas" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -275,7 +289,7 @@
       <workItem from="1561139854634" duration="2492000" />
       <workItem from="1561182506210" duration="593000" />
       <workItem from="1561657518553" duration="4384000" />
-      <workItem from="1561706129165" duration="235000" />
+      <workItem from="1561706129165" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="EXTRACTING A ROW">
       <created>1559760740824</created>
@@ -288,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34881000" />
+    <option name="totallyTimeSpent" value="35348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -343,7 +357,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PCA.py" />
     <entry file="file://$PROJECT_DIR$/Functions.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/initial_panda_pgm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -381,6 +394,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="11" />
         </state>
       </provider>
     </entry>
